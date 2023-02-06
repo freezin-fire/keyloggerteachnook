@@ -19,9 +19,9 @@ git clone git@github.com:chi-wei-lien/sql-injection.git
 Compilation and Run
 
 ```
-g++ keylogger.cpp -o sus
-sus
+g++ keylogger.cpp -o logger
+logger
 ```
 
 How to stop the script: \
-go to task manager -> "Details" -> find the executable name (sus) -> press "End task"
+go to task manager -> "Details" -> find the executable name (logger.exe) -> press "End task"
